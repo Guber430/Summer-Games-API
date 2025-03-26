@@ -1,0 +1,2 @@
+﻿Add-Migration -Context SummerGamesContext -o Data\SummerGamesMigrations Initial
+Update-Database -Context SummerGamesContext 

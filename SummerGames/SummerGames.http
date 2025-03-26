@@ -1,0 +1,6 @@
+@SummerGames_HostAddress = http://localhost:5009
+
+GET {{SummerGames_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
