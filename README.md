@@ -12,10 +12,6 @@ This repository contains both a **Web API** and a **Client Application** for man
 - [Setup Instructions](#setup-instructions)
   - [Prerequisites](#prerequisites)
   - [Clone the Repository](#clone-the-repository)
-- [API Endpoints](#api-endpoints)
-  - [Sport](#sport)
-  - [Contingent](#contingent)
-  - [Athlete](#athlete)
 
 ---
 
