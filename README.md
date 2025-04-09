@@ -2,6 +2,24 @@
 
 This repository contains both a **Web API** and a **Client Application** for managing a **Summer Games** event, similar to the Canada Summer Games held in the Niagara Region. The API handles data about athletes, sports, and contingents (provinces/territories), and the client application interacts with the API to allow for adding, updating, and viewing athletes, filtering by **Sport** or **Contingent**.
 
+---
+
+## Table of Contents
+- [Project Overview](#project-overview)
+  - [Web API](#web-api)
+  - [Client Application](#client-application)
+- [Technologies Used](#technologies-used)
+- [Setup Instructions](#setup-instructions)
+  - [Prerequisites](#prerequisites)
+  - [Clone the Repository](#clone-the-repository)
+- [API Endpoints](#api-endpoints)
+  - [Sport](#sport)
+  - [Contingent](#contingent)
+  - [Athlete](#athlete)
+
+---
+
+
 ## Project Overview
 
 ### Web API
@@ -21,6 +39,8 @@ The **Client Application** interacts with the Web API to:
 - Handle and display error information provided by the Web API.
 
 The client is built using **MAUI** and provides a smooth interface for interacting with the API.
+
+---
 
 ## Technologies Used
 - **Backend**: C#, .NET 8
